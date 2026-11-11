@@ -7,7 +7,7 @@ A reproducible Bash/VSEARCH workflow for comparing 16S rRNA V4 sequencing data f
 
 This portfolio project demonstrates command-line bioinformatics skills in Linux, including FASTQ handling, paired-end read merging, taxonomic classification, Unix text processing, set comparisons, and abundance analysis.
 
-> **Portfolio note:** This repository is a cleaned, reproducible version of a university bioinformatics programming exercise. The original assignment handout is not included. Public sequencing data and public NCBI reference data are downloaded directly by the workflow.
+
 
 ## Skills demonstrated
 
@@ -104,7 +104,7 @@ BLAST-like TSV results
       +--> percent-identity assessment
 ```
 
-## Resume-friendly project description
+
 
 **Linux/Bash Bioinformatics Analysis — 16S rRNA Gut Microbiome**
 
